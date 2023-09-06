@@ -24,9 +24,9 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.rnt.UsersApp.dao.StringBulidDao;
 import com.rnt.UsersApp.dao.UserDao;
+import com.rnt.UsersApp.model.User;
 
 import Exceptions.DuplicateEmailFoundException;
-import comrnt.UsersApp.model.User;
 
 @Controller
 public class MainController {

@@ -11,8 +11,7 @@ import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
 import com.rnt.UsersApp.controller.MainController;
-
-import comrnt.UsersApp.model.User;
+import com.rnt.UsersApp.model.User;
 
 public class UserDao {
 	private static final Logger log = LogManager.getLogger(UserDao.class);
