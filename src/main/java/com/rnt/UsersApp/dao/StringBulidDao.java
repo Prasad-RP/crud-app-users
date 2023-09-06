@@ -11,7 +11,7 @@ import java.util.List;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
-import comrnt.UsersApp.model.User;
+import com.rnt.UsersApp.model.User;
 
 public class StringBulidDao {
 	

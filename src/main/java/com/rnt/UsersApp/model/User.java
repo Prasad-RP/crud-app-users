@@ -1,4 +1,4 @@
-package comrnt.UsersApp.model;
+package com.rnt.UsersApp.model;
 
 public class User {
 
